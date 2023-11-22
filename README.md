@@ -4,4 +4,5 @@ Ademas de participar en el programa intensivo de Henry, trabaje como desarrollad
 
 Entusiasmado por seguir creciendo, por el momento me enfoco en interfaces de usuario (UI) practicas, eficientes y dinamicas.
 
--correo electronico: ramiro.s.pagella@gmail.com
+-Correo electronico: ramiro.s.pagella@gmail.com
+-LinkedIn: https://www.linkedin.com/in/ramiro-pagella/
